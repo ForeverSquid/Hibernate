@@ -1,0 +1,402 @@
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration boolean -> org.hibernate.type.BooleanType@2e9267fe
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration boolean -> org.hibernate.type.BooleanType@2e9267fe
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Boolean -> org.hibernate.type.BooleanType@2e9267fe
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration numeric_boolean -> org.hibernate.type.NumericBooleanType@4932fc5f
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration true_false -> org.hibernate.type.TrueFalseType@1e2423e2
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration yes_no -> org.hibernate.type.YesNoType@46bec35a
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration byte -> org.hibernate.type.ByteType@12da0348
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration byte -> org.hibernate.type.ByteType@12da0348
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Byte -> org.hibernate.type.ByteType@12da0348
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration character -> org.hibernate.type.CharacterType@2c0cd7d
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration char -> org.hibernate.type.CharacterType@2c0cd7d
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Character -> org.hibernate.type.CharacterType@2c0cd7d
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration short -> org.hibernate.type.ShortType@3235186a
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration short -> org.hibernate.type.ShortType@3235186a
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Short -> org.hibernate.type.ShortType@3235186a
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration integer -> org.hibernate.type.IntegerType@19aea6e2
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration int -> org.hibernate.type.IntegerType@19aea6e2
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Integer -> org.hibernate.type.IntegerType@19aea6e2
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration long -> org.hibernate.type.LongType@60c344b4
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration long -> org.hibernate.type.LongType@60c344b4
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Long -> org.hibernate.type.LongType@60c344b4
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration float -> org.hibernate.type.FloatType@36855379
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration float -> org.hibernate.type.FloatType@36855379
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Float -> org.hibernate.type.FloatType@36855379
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration double -> org.hibernate.type.DoubleType@13e6f1f4
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration double -> org.hibernate.type.DoubleType@13e6f1f4
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Double -> org.hibernate.type.DoubleType@13e6f1f4
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration big_decimal -> org.hibernate.type.BigDecimalType@a24d858
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.math.BigDecimal -> org.hibernate.type.BigDecimalType@a24d858
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration big_integer -> org.hibernate.type.BigIntegerType@742e84e1
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.math.BigInteger -> org.hibernate.type.BigIntegerType@742e84e1
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration string -> org.hibernate.type.StringType@55afc1de
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.String -> org.hibernate.type.StringType@55afc1de
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration url -> org.hibernate.type.UrlType@3ad22707
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.net.URL -> org.hibernate.type.UrlType@3ad22707
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration date -> org.hibernate.type.DateType@76c5e234
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Date -> org.hibernate.type.DateType@76c5e234
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration time -> org.hibernate.type.TimeType@1312656b
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Time -> org.hibernate.type.TimeType@1312656b
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration timestamp -> org.hibernate.type.TimestampType@70c13c17
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Timestamp -> org.hibernate.type.TimestampType@70c13c17
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.Date -> org.hibernate.type.TimestampType@70c13c17
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration dbtimestamp -> org.hibernate.type.DbTimestampType@27aed7c1
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration calendar -> org.hibernate.type.CalendarType@6a634f6b
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.Calendar -> org.hibernate.type.CalendarType@6a634f6b
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.GregorianCalendar -> org.hibernate.type.CalendarType@6a634f6b
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration calendar_date -> org.hibernate.type.CalendarDateType@57049576
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration locale -> org.hibernate.type.LocaleType@5e44efa0
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.Locale -> org.hibernate.type.LocaleType@5e44efa0
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration currency -> org.hibernate.type.CurrencyType@4f9078ed
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.Currency -> org.hibernate.type.CurrencyType@4f9078ed
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration timezone -> org.hibernate.type.TimeZoneType@40a2e359
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.TimeZone -> org.hibernate.type.TimeZoneType@40a2e359
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration class -> org.hibernate.type.ClassType@72a61373
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Class -> org.hibernate.type.ClassType@72a61373
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration uuid-binary -> org.hibernate.type.UUIDBinaryType@313e36eb
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.UUID -> org.hibernate.type.UUIDBinaryType@313e36eb
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration uuid-char -> org.hibernate.type.UUIDCharType@3f4daa36
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration pg-uuid -> org.hibernate.type.PostgresUUIDType@4eff1d61
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration binary -> org.hibernate.type.BinaryType@7eeb8007
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration byte[] -> org.hibernate.type.BinaryType@7eeb8007
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration [B -> org.hibernate.type.BinaryType@7eeb8007
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration wrapper-binary -> org.hibernate.type.WrapperBinaryType@1839bb3
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration Byte[] -> org.hibernate.type.WrapperBinaryType@1839bb3
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration [Ljava.lang.Byte; -> org.hibernate.type.WrapperBinaryType@1839bb3
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration image -> org.hibernate.type.ImageType@4434d2ab
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration characters -> org.hibernate.type.CharArrayType@31d70d74
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration char[] -> org.hibernate.type.CharArrayType@31d70d74
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration [C -> org.hibernate.type.CharArrayType@31d70d74
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration wrapper-characters -> org.hibernate.type.CharacterArrayType@d837603
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration [Ljava.lang.Character; -> org.hibernate.type.CharacterArrayType@d837603
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration Character[] -> org.hibernate.type.CharacterArrayType@d837603
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration text -> org.hibernate.type.TextType@4a8270d7
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration blob -> org.hibernate.type.BlobType@329a0466
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Blob -> org.hibernate.type.BlobType@329a0466
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration materialized_blob -> org.hibernate.type.MaterializedBlobType@184f7eba
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration wrapper_materialized_blob -> org.hibernate.type.WrappedMaterializedBlobType@49c5146e
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration clob -> org.hibernate.type.ClobType@7b33a2a8
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Clob -> org.hibernate.type.ClobType@7b33a2a8
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration materialized_clob -> org.hibernate.type.MaterializedClobType@62892cc5
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration wrapper_characters_clob -> org.hibernate.type.CharacterArrayClobType@690d4170
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration characters_clob -> org.hibernate.type.PrimitiveCharacterArrayClobType@72282e3b
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration serializable -> org.hibernate.type.SerializableType@15173950
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration object -> org.hibernate.type.ObjectType@4d79d425
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Object -> org.hibernate.type.ObjectType@4d79d425
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_date -> org.hibernate.type.AdaptedImmutableType@1813ed0e
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_time -> org.hibernate.type.AdaptedImmutableType@44303e7b
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_timestamp -> org.hibernate.type.AdaptedImmutableType@3b562036
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_dbtimestamp -> org.hibernate.type.AdaptedImmutableType@135cd7a9
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_calendar -> org.hibernate.type.AdaptedImmutableType@3452a22d
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_calendar_date -> org.hibernate.type.AdaptedImmutableType@1d155331
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_binary -> org.hibernate.type.AdaptedImmutableType@6308c4e1
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_serializable -> org.hibernate.type.AdaptedImmutableType@54b5c292
+INFO main org.hibernate.annotations.common.Version - Hibernate Commons Annotations 3.2.0.Final
+INFO main org.hibernate.cfg.Environment - Hibernate 3.6.10.Final
+INFO main org.hibernate.cfg.Environment - hibernate.properties not found
+INFO main org.hibernate.cfg.Environment - Bytecode provider name : javassist
+INFO main org.hibernate.cfg.Environment - using JDK 1.4 java.sql.Timestamp handling
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [uuid2] -> [class org.hibernate.id.UUIDGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [guid] -> [class org.hibernate.id.GUIDGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [uuid] -> [class org.hibernate.id.UUIDHexGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [uuid.hex] -> [class org.hibernate.id.UUIDHexGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [hilo] -> [class org.hibernate.id.TableHiLoGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [assigned] -> [class org.hibernate.id.Assigned]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [identity] -> [class org.hibernate.id.IdentityGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [select] -> [class org.hibernate.id.SelectGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [sequence] -> [class org.hibernate.id.SequenceGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [seqhilo] -> [class org.hibernate.id.SequenceHiLoGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [increment] -> [class org.hibernate.id.IncrementGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [foreign] -> [class org.hibernate.id.ForeignGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [sequence-identity] -> [class org.hibernate.id.SequenceIdentityGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [enhanced-sequence] -> [class org.hibernate.id.enhanced.SequenceStyleGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [enhanced-table] -> [class org.hibernate.id.enhanced.TableGenerator]
+INFO main org.hibernate.cfg.Configuration - configuring from resource: /hibernate.cfg.xml
+INFO main org.hibernate.cfg.Configuration - Configuration resource: /hibernate.cfg.xml
+DEBUG main org.hibernate.util.DTDEntityResolver - trying to resolve system-id [http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd]
+DEBUG main org.hibernate.util.DTDEntityResolver - recognized hibernate namespace; attempting to resolve on classpath under org/hibernate/
+DEBUG main org.hibernate.util.DTDEntityResolver - located [http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd] in classpath
+DEBUG main org.hibernate.cfg.Configuration - dialect=org.hibernate.dialect.MySQLDialect
+DEBUG main org.hibernate.cfg.Configuration - connection.url=jdbc:mysql://127.0.0.1:3306/test?useUnicode=true&characterEncoding=UTF-8
+DEBUG main org.hibernate.cfg.Configuration - connection.username=root
+DEBUG main org.hibernate.cfg.Configuration - connection.driver_class=com.mysql.jdbc.Driver
+DEBUG main org.hibernate.cfg.Configuration - myeclipse.connection.profile=MySql1
+DEBUG main org.hibernate.cfg.Configuration - session-factory config [null] named resource [com/Forever/po/DrUser.hbm.xml] for mapping
+INFO main org.hibernate.cfg.Configuration - Reading mappings from resource : com/Forever/po/DrUser.hbm.xml
+DEBUG main org.hibernate.util.DTDEntityResolver - trying to resolve system-id [http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd]
+DEBUG main org.hibernate.util.DTDEntityResolver - recognized hibernate namespace; attempting to resolve on classpath under org/hibernate/
+DEBUG main org.hibernate.util.DTDEntityResolver - located [http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd] in classpath
+INFO main org.hibernate.cfg.Configuration - Configured SessionFactory: null
+DEBUG main org.hibernate.cfg.Configuration - properties: {java.runtime.name=Java(TM) SE Runtime Environment, sun.boot.library.path=C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\bin, java.vm.version=24.45-b08, hibernate.connection.username=root, java.vm.vendor=Oracle Corporation, java.vendor.url=http://java.oracle.com/, path.separator=;, java.vm.name=Java HotSpot(TM) 64-Bit Server VM, file.encoding.pkg=sun.io, user.script=, user.country=CN, sun.java.launcher=SUN_STANDARD, sun.os.patch.level=Service Pack 1, java.vm.specification.name=Java Virtual Machine Specification, user.dir=C:\Users\Administrator\Workspaces\MyEclipse Professional 2014\F_Hibernate_2, java.runtime.version=1.7.0_45-b18, java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment, java.endorsed.dirs=C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\endorsed, os.arch=amd64, java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\, line.separator=
+, java.vm.specification.vendor=Oracle Corporation, user.variant=, os.name=Windows 7, sun.jnu.encoding=GBK, java.library.path=C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\bin;C:\Program Files (x86)\Java\jdk1.7.0_51\bin;C:\Program Files\Java\jdk1.8.0_25\bin;.;;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;;., hibernate.myeclipse.connection.profile=MySql1, java.specification.name=Java Platform API Specification, java.class.version=51.0, sun.management.compiler=HotSpot 64-Bit Tiered Compilers, os.version=6.1, user.home=C:\Users\Administrator, user.timezone=, connection.username=root, java.awt.printerjob=sun.awt.windows.WPrinterJob, file.encoding=UTF-8, java.specification.version=1.7, myeclipse.connection.profile=MySql1, hibernate.connection.driver_class=com.mysql.jdbc.Driver, java.class.path=C:\Users\Administrator\Workspaces\MyEclipse Professional 2014\F_Hibernate_2\target\classes;C:\Users\Administrator\Workspaces\MyEclipse Professional 2014\F_Hibernate_2\src\main\webapp\WEB-INF\lib\antlr-2.7.7.jar;C:\Users\Administrator\Workspaces\MyEclipse Professional 2014\F_Hibernate_2\src\main\webapp\WEB-INF\lib\hibernate-testing.jar;C:\Users\Administrator\Workspaces\MyEclipse Professional 2014\F_Hibernate_2\src\main\webapp\WEB-INF\lib\hibernate3.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-log4j12\1.7.7\slf4j-log4j12-1.7.7.jar;C:\Users\Administrator\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\Administrator\.m2\repository\jstl\jstl\1.2\jstl-1.2.jar;C:\Users\Administrator\.m2\repository\mysql\mysql-connector-java\5.1.30\mysql-connector-java-5.1.30.jar;C:\Users\Administrator\.m2\repository\org\apache\struts\struts2-core\2.3.16.3\struts2-core-2.3.16.3.jar;C:\Users\Administrator\.m2\repository\org\apache\struts\xwork\xwork-core\2.3.16.3\xwork-core-2.3.16.3.jar;C:\Users\Administrator\.m2\repository\asm\asm-commons\3.3\asm-commons-3.3.jar;C:\Users\Administrator\.m2\repository\asm\asm-tree\3.3\asm-tree-3.3.jar;C:\Users\Administrator\.m2\repository\org\freemarker\freemarker\2.3.19\freemarker-2.3.19.jar;C:\Users\Administrator\.m2\repository\ognl\ognl\3.0.6\ognl-3.0.6.jar;C:\Users\Administrator\.m2\repository\javassist\javassist\3.11.0.GA\javassist-3.11.0.GA.jar;C:\Users\Administrator\.m2\repository\commons-fileupload\commons-fileupload\1.3.1\commons-fileupload-1.3.1.jar;C:\Users\Administrator\.m2\repository\commons-io\commons-io\2.2\commons-io-2.2.jar;C:\Users\Administrator\.m2\repository\org\apache\struts\struts2-convention-plugin\2.3.16.3\struts2-convention-plugin-2.3.16.3.jar;C:\Users\Administrator\.m2\repository\org\apache\commons\commons-lang3\3.1\commons-lang3-3.1.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-api\1.7.7\slf4j-api-1.7.7.jar;C:\Users\Administrator\.m2\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar;C:\Users\Administrator\.m2\repository\xml-apis\xml-apis\1.0.b2\xml-apis-1.0.b2.jar;C:\Users\Administrator\.m2\repository\org\hibernate\common\hibernate-commons-annotations\4.0.1.Final\hibernate-commons-annotations-4.0.1.Final.jar;C:\Users\Administrator\.m2\repository\org\jboss\logging\jboss-logging\3.1.0.CR2\jboss-logging-3.1.0.CR2.jar;C:\Users\Administrator\.m2\repository\org\hibernate\javax\persistence\hibernate-jpa-2.0-api\1.0.1.Final\hibernate-jpa-2.0-api-1.0.1.Final.jar;C:\Users\Administrator\.m2\repository\org\javassist\javassist\3.15.0-GA\javassist-3.15.0-GA.jar;C:\Users\Administrator\.m2\repository\org\jboss\spec\javax\transaction\jboss-transaction-api_1.1_spec\1.0.0.Final\jboss-transaction-api_1.1_spec-1.0.0.Final.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-entitymanager\4.1.4.Final\hibernate-entitymanager-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-core\4.1.4.Final\hibernate-core-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-c3p0\4.1.4.Final\hibernate-c3p0-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\net\sf\ehcache\ehcache-core\2.4.3\ehcache-core-2.4.3.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-ehcache\4.1.4.Final\hibernate-ehcache-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-infinispan\4.1.4.Final\hibernate-infinispan-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\org\infinispan\infinispan-core\5.1.4.FINAL\infinispan-core-5.1.4.FINAL.jar;C:\Users\Administrator\.m2\repository\org\jboss\marshalling\jboss-marshalling\1.3.11.GA\jboss-marshalling-1.3.11.GA.jar;C:\Users\Administrator\.m2\repository\org\jboss\marshalling\jboss-marshalling-river\1.3.11.GA\jboss-marshalling-river-1.3.11.GA.jar;C:\Users\Administrator\.m2\repository\org\jgroups\jgroups\3.0.9.Final\jgroups-3.0.9.Final.jar;C:\Users\Administrator\.m2\repository\org\rhq\helpers\rhq-pluginAnnotations\3.0.4\rhq-pluginAnnotations-3.0.4.jar;C:\Users\Administrator\.m2\repository\org\codehaus\woodstox\stax2-api\3.1.1\stax2-api-3.1.1.jar;C:\Users\Administrator\.m2\repository\javax\xml\stream\stax-api\1.0-2\stax-api-1.0-2.jar;C:\Users\Administrator\.m2\repository\org\codehaus\woodstox\woodstox-core-asl\4.1.1\woodstox-core-asl-4.1.1.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-proxool\4.1.4.Final\hibernate-proxool-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\proxool\proxool\0.8.3\proxool-0.8.3.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-envers\4.1.4.Final\hibernate-envers-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-cglib-repack\2.1_3\hibernate-cglib-repack-2.1_3.jar;C:\Users\Administrator\.m2\repository\c3p0\c3p0\0.9.1.2\c3p0-0.9.1.2.jar;C:\Users\Administrator\.m2\repository\cglib\cglib\2.1_3\cglib-2.1_3.jar;C:\Users\Administrator\.m2\repository\asm\asm\1.5.3\asm-1.5.3.jar;C:\Users\Administrator\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar, user.name=Administrator, hibernate.bytecode.use_reflection_optimizer=false, java.vm.specification.version=1.7, sun.java.command=com.Forever.dao.Userdao, java.home=C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre, sun.arch.data.model=64, hibernate.connection.url=jdbc:mysql://127.0.0.1:3306/test?useUnicode=true&characterEncoding=UTF-8, hibernate.dialect=org.hibernate.dialect.MySQLDialect, user.language=zh, java.specification.vendor=Oracle Corporation, awt.toolkit=sun.awt.windows.WToolkit, java.vm.info=mixed mode, java.version=1.7.0_45, java.ext.dirs=C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\ext;C:\Windows\Sun\Java\lib\ext, sun.boot.class.path=C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\resources.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\rt.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\sunrsasign.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\jsse.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\jce.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\charsets.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\jfr.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\classes, java.vendor=Oracle Corporation, connection.driver_class=com.mysql.jdbc.Driver, file.separator=\, java.vendor.url.bug=http://bugreport.sun.com/bugreport/, sun.io.unicode.encoding=UnicodeLittle, sun.cpu.endian=little, sun.desktop=windows, connection.url=jdbc:mysql://127.0.0.1:3306/test?useUnicode=true&characterEncoding=UTF-8, dialect=org.hibernate.dialect.MySQLDialect, sun.cpu.isalist=amd64}
+DEBUG main org.jboss.logging - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+DEBUG main org.hibernate.integrator.internal.IntegratorServiceImpl - Adding Integrator [org.hibernate.cfg.beanvalidation.BeanValidationIntegrator].
+DEBUG main org.hibernate.integrator.internal.IntegratorServiceImpl - Adding Integrator [org.hibernate.envers.event.EnversIntegrator].
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration boolean -> org.hibernate.type.BooleanType@de96c95
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration boolean -> org.hibernate.type.BooleanType@de96c95
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Boolean -> org.hibernate.type.BooleanType@de96c95
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration numeric_boolean -> org.hibernate.type.NumericBooleanType@3256e684
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration true_false -> org.hibernate.type.TrueFalseType@56afd9e3
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration yes_no -> org.hibernate.type.YesNoType@160b6dff
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration byte -> org.hibernate.type.ByteType@270d75a3
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration byte -> org.hibernate.type.ByteType@270d75a3
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Byte -> org.hibernate.type.ByteType@270d75a3
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration character -> org.hibernate.type.CharacterType@3ff2caf4
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration char -> org.hibernate.type.CharacterType@3ff2caf4
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Character -> org.hibernate.type.CharacterType@3ff2caf4
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration short -> org.hibernate.type.ShortType@3bd5f0e6
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration short -> org.hibernate.type.ShortType@3bd5f0e6
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Short -> org.hibernate.type.ShortType@3bd5f0e6
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration integer -> org.hibernate.type.IntegerType@194e4c9a
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration int -> org.hibernate.type.IntegerType@194e4c9a
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Integer -> org.hibernate.type.IntegerType@194e4c9a
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration long -> org.hibernate.type.LongType@33d3b70d
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration long -> org.hibernate.type.LongType@33d3b70d
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Long -> org.hibernate.type.LongType@33d3b70d
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration float -> org.hibernate.type.FloatType@6b2b48e5
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration float -> org.hibernate.type.FloatType@6b2b48e5
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Float -> org.hibernate.type.FloatType@6b2b48e5
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration double -> org.hibernate.type.DoubleType@1f16d461
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration double -> org.hibernate.type.DoubleType@1f16d461
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Double -> org.hibernate.type.DoubleType@1f16d461
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration big_decimal -> org.hibernate.type.BigDecimalType@78f77e9b
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.math.BigDecimal -> org.hibernate.type.BigDecimalType@78f77e9b
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration big_integer -> org.hibernate.type.BigIntegerType@1a160b5e
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.math.BigInteger -> org.hibernate.type.BigIntegerType@1a160b5e
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration string -> org.hibernate.type.StringType@5e101c5
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.String -> org.hibernate.type.StringType@5e101c5
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration url -> org.hibernate.type.UrlType@3b005abc
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.net.URL -> org.hibernate.type.UrlType@3b005abc
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration date -> org.hibernate.type.DateType@398600d7
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Date -> org.hibernate.type.DateType@398600d7
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration time -> org.hibernate.type.TimeType@1cc05d95
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Time -> org.hibernate.type.TimeType@1cc05d95
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration timestamp -> org.hibernate.type.TimestampType@1e5043d6
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Timestamp -> org.hibernate.type.TimestampType@1e5043d6
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.Date -> org.hibernate.type.TimestampType@1e5043d6
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration dbtimestamp -> org.hibernate.type.DbTimestampType@47d6d441
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration calendar -> org.hibernate.type.CalendarType@1df3305e
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.Calendar -> org.hibernate.type.CalendarType@1df3305e
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.GregorianCalendar -> org.hibernate.type.CalendarType@1df3305e
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration calendar_date -> org.hibernate.type.CalendarDateType@6df0a29b
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration locale -> org.hibernate.type.LocaleType@7fd021b9
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.Locale -> org.hibernate.type.LocaleType@7fd021b9
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration currency -> org.hibernate.type.CurrencyType@15f3386a
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.Currency -> org.hibernate.type.CurrencyType@15f3386a
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration timezone -> org.hibernate.type.TimeZoneType@5fc0936
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.TimeZone -> org.hibernate.type.TimeZoneType@5fc0936
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration class -> org.hibernate.type.ClassType@75471dd2
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Class -> org.hibernate.type.ClassType@75471dd2
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration uuid-binary -> org.hibernate.type.UUIDBinaryType@6b87978e
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.UUID -> org.hibernate.type.UUIDBinaryType@6b87978e
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration uuid-char -> org.hibernate.type.UUIDCharType@3e1dfb2
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration pg-uuid -> org.hibernate.type.PostgresUUIDType@4ee1f3cb
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration binary -> org.hibernate.type.BinaryType@17228caa
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration byte[] -> org.hibernate.type.BinaryType@17228caa
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration [B -> org.hibernate.type.BinaryType@17228caa
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration wrapper-binary -> org.hibernate.type.WrapperBinaryType@6763058b
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration Byte[] -> org.hibernate.type.WrapperBinaryType@6763058b
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration [Ljava.lang.Byte; -> org.hibernate.type.WrapperBinaryType@6763058b
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration image -> org.hibernate.type.ImageType@67f2fb88
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration characters -> org.hibernate.type.CharArrayType@1db4543c
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration char[] -> org.hibernate.type.CharArrayType@1db4543c
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration [C -> org.hibernate.type.CharArrayType@1db4543c
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration wrapper-characters -> org.hibernate.type.CharacterArrayType@31b8c5e3
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration [Ljava.lang.Character; -> org.hibernate.type.CharacterArrayType@31b8c5e3
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration Character[] -> org.hibernate.type.CharacterArrayType@31b8c5e3
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration text -> org.hibernate.type.TextType@39be5978
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration blob -> org.hibernate.type.BlobType@1d96de7e
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Blob -> org.hibernate.type.BlobType@1d96de7e
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration materialized_blob -> org.hibernate.type.MaterializedBlobType@b08f1ce
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration wrapper_materialized_blob -> org.hibernate.type.WrappedMaterializedBlobType@29c06798
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration clob -> org.hibernate.type.ClobType@7afc02c8
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Clob -> org.hibernate.type.ClobType@7afc02c8
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration materialized_clob -> org.hibernate.type.MaterializedClobType@1bda6c0d
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration wrapper_characters_clob -> org.hibernate.type.CharacterArrayClobType@654355f1
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration characters_clob -> org.hibernate.type.PrimitiveCharacterArrayClobType@2bf35e0a
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration serializable -> org.hibernate.type.SerializableType@27b3be01
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration object -> org.hibernate.type.ObjectType@7956f0df
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Object -> org.hibernate.type.ObjectType@7956f0df
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_date -> org.hibernate.type.AdaptedImmutableType@44303e7b
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_time -> org.hibernate.type.AdaptedImmutableType@3b562036
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_timestamp -> org.hibernate.type.AdaptedImmutableType@135cd7a9
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_dbtimestamp -> org.hibernate.type.AdaptedImmutableType@3452a22d
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_calendar -> org.hibernate.type.AdaptedImmutableType@1d155331
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_calendar_date -> org.hibernate.type.AdaptedImmutableType@6308c4e1
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_binary -> org.hibernate.type.AdaptedImmutableType@54b5c292
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_serializable -> org.hibernate.type.AdaptedImmutableType@68f92ab0
+INFO main org.hibernate.annotations.common.Version - Hibernate Commons Annotations 3.2.0.Final
+INFO main org.hibernate.cfg.Environment - Hibernate 3.6.10.Final
+INFO main org.hibernate.cfg.Environment - hibernate.properties not found
+INFO main org.hibernate.cfg.Environment - Bytecode provider name : javassist
+INFO main org.hibernate.cfg.Environment - using JDK 1.4 java.sql.Timestamp handling
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [uuid2] -> [class org.hibernate.id.UUIDGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [guid] -> [class org.hibernate.id.GUIDGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [uuid] -> [class org.hibernate.id.UUIDHexGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [uuid.hex] -> [class org.hibernate.id.UUIDHexGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [hilo] -> [class org.hibernate.id.TableHiLoGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [assigned] -> [class org.hibernate.id.Assigned]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [identity] -> [class org.hibernate.id.IdentityGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [select] -> [class org.hibernate.id.SelectGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [sequence] -> [class org.hibernate.id.SequenceGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [seqhilo] -> [class org.hibernate.id.SequenceHiLoGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [increment] -> [class org.hibernate.id.IncrementGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [foreign] -> [class org.hibernate.id.ForeignGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [sequence-identity] -> [class org.hibernate.id.SequenceIdentityGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [enhanced-sequence] -> [class org.hibernate.id.enhanced.SequenceStyleGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [enhanced-table] -> [class org.hibernate.id.enhanced.TableGenerator]
+INFO main org.hibernate.cfg.Configuration - configuring from resource: /hibernate.cfg.xml
+INFO main org.hibernate.cfg.Configuration - Configuration resource: /hibernate.cfg.xml
+DEBUG main org.hibernate.util.DTDEntityResolver - trying to resolve system-id [http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd]
+DEBUG main org.hibernate.util.DTDEntityResolver - recognized hibernate namespace; attempting to resolve on classpath under org/hibernate/
+DEBUG main org.hibernate.util.DTDEntityResolver - located [http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd] in classpath
+DEBUG main org.hibernate.cfg.Configuration - dialect=org.hibernate.dialect.MySQLDialect
+DEBUG main org.hibernate.cfg.Configuration - connection.url=jdbc:mysql://127.0.0.1:3306/test?useUnicode=true&characterEncoding=UTF-8
+DEBUG main org.hibernate.cfg.Configuration - connection.username=root
+DEBUG main org.hibernate.cfg.Configuration - connection.driver_class=com.mysql.jdbc.Driver
+DEBUG main org.hibernate.cfg.Configuration - myeclipse.connection.profile=MySql1
+DEBUG main org.hibernate.cfg.Configuration - session-factory config [null] named resource [com/Forever/po/DrUser.hbm.xml] for mapping
+INFO main org.hibernate.cfg.Configuration - Reading mappings from resource : com/Forever/po/DrUser.hbm.xml
+DEBUG main org.hibernate.util.DTDEntityResolver - trying to resolve system-id [http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd]
+DEBUG main org.hibernate.util.DTDEntityResolver - recognized hibernate namespace; attempting to resolve on classpath under org/hibernate/
+DEBUG main org.hibernate.util.DTDEntityResolver - located [http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd] in classpath
+INFO main org.hibernate.cfg.Configuration - Configured SessionFactory: null
+DEBUG main org.hibernate.cfg.Configuration - properties: {java.runtime.name=Java(TM) SE Runtime Environment, sun.boot.library.path=C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\bin, java.vm.version=24.45-b08, hibernate.connection.username=root, java.vm.vendor=Oracle Corporation, java.vendor.url=http://java.oracle.com/, path.separator=;, java.vm.name=Java HotSpot(TM) 64-Bit Server VM, file.encoding.pkg=sun.io, user.script=, user.country=CN, sun.java.launcher=SUN_STANDARD, sun.os.patch.level=Service Pack 1, java.vm.specification.name=Java Virtual Machine Specification, user.dir=C:\Users\Administrator\Workspaces\MyEclipse Professional 2014\F_Hibernate_2, java.runtime.version=1.7.0_45-b18, java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment, java.endorsed.dirs=C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\endorsed, os.arch=amd64, java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\, line.separator=
+, java.vm.specification.vendor=Oracle Corporation, user.variant=, os.name=Windows 7, sun.jnu.encoding=GBK, java.library.path=C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\bin;C:\Program Files (x86)\Java\jdk1.7.0_51\bin;C:\Program Files\Java\jdk1.8.0_25\bin;.;;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;;., hibernate.myeclipse.connection.profile=MySql1, java.specification.name=Java Platform API Specification, java.class.version=51.0, sun.management.compiler=HotSpot 64-Bit Tiered Compilers, os.version=6.1, user.home=C:\Users\Administrator, user.timezone=, connection.username=root, java.awt.printerjob=sun.awt.windows.WPrinterJob, file.encoding=UTF-8, java.specification.version=1.7, myeclipse.connection.profile=MySql1, hibernate.connection.driver_class=com.mysql.jdbc.Driver, java.class.path=C:\Users\Administrator\Workspaces\MyEclipse Professional 2014\F_Hibernate_2\target\classes;C:\Users\Administrator\Workspaces\MyEclipse Professional 2014\F_Hibernate_2\src\main\webapp\WEB-INF\lib\antlr-2.7.7.jar;C:\Users\Administrator\Workspaces\MyEclipse Professional 2014\F_Hibernate_2\src\main\webapp\WEB-INF\lib\hibernate-testing.jar;C:\Users\Administrator\Workspaces\MyEclipse Professional 2014\F_Hibernate_2\src\main\webapp\WEB-INF\lib\hibernate3.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-log4j12\1.7.7\slf4j-log4j12-1.7.7.jar;C:\Users\Administrator\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\Administrator\.m2\repository\jstl\jstl\1.2\jstl-1.2.jar;C:\Users\Administrator\.m2\repository\mysql\mysql-connector-java\5.1.30\mysql-connector-java-5.1.30.jar;C:\Users\Administrator\.m2\repository\org\apache\struts\struts2-core\2.3.16.3\struts2-core-2.3.16.3.jar;C:\Users\Administrator\.m2\repository\org\apache\struts\xwork\xwork-core\2.3.16.3\xwork-core-2.3.16.3.jar;C:\Users\Administrator\.m2\repository\asm\asm-commons\3.3\asm-commons-3.3.jar;C:\Users\Administrator\.m2\repository\asm\asm-tree\3.3\asm-tree-3.3.jar;C:\Users\Administrator\.m2\repository\org\freemarker\freemarker\2.3.19\freemarker-2.3.19.jar;C:\Users\Administrator\.m2\repository\ognl\ognl\3.0.6\ognl-3.0.6.jar;C:\Users\Administrator\.m2\repository\javassist\javassist\3.11.0.GA\javassist-3.11.0.GA.jar;C:\Users\Administrator\.m2\repository\commons-fileupload\commons-fileupload\1.3.1\commons-fileupload-1.3.1.jar;C:\Users\Administrator\.m2\repository\commons-io\commons-io\2.2\commons-io-2.2.jar;C:\Users\Administrator\.m2\repository\org\apache\struts\struts2-convention-plugin\2.3.16.3\struts2-convention-plugin-2.3.16.3.jar;C:\Users\Administrator\.m2\repository\org\apache\commons\commons-lang3\3.1\commons-lang3-3.1.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-api\1.7.7\slf4j-api-1.7.7.jar;C:\Users\Administrator\.m2\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar;C:\Users\Administrator\.m2\repository\xml-apis\xml-apis\1.0.b2\xml-apis-1.0.b2.jar;C:\Users\Administrator\.m2\repository\org\hibernate\common\hibernate-commons-annotations\4.0.1.Final\hibernate-commons-annotations-4.0.1.Final.jar;C:\Users\Administrator\.m2\repository\org\jboss\logging\jboss-logging\3.1.0.CR2\jboss-logging-3.1.0.CR2.jar;C:\Users\Administrator\.m2\repository\org\hibernate\javax\persistence\hibernate-jpa-2.0-api\1.0.1.Final\hibernate-jpa-2.0-api-1.0.1.Final.jar;C:\Users\Administrator\.m2\repository\org\javassist\javassist\3.15.0-GA\javassist-3.15.0-GA.jar;C:\Users\Administrator\.m2\repository\org\jboss\spec\javax\transaction\jboss-transaction-api_1.1_spec\1.0.0.Final\jboss-transaction-api_1.1_spec-1.0.0.Final.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-entitymanager\4.1.4.Final\hibernate-entitymanager-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-core\4.1.4.Final\hibernate-core-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-c3p0\4.1.4.Final\hibernate-c3p0-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\net\sf\ehcache\ehcache-core\2.4.3\ehcache-core-2.4.3.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-ehcache\4.1.4.Final\hibernate-ehcache-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-infinispan\4.1.4.Final\hibernate-infinispan-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\org\infinispan\infinispan-core\5.1.4.FINAL\infinispan-core-5.1.4.FINAL.jar;C:\Users\Administrator\.m2\repository\org\jboss\marshalling\jboss-marshalling\1.3.11.GA\jboss-marshalling-1.3.11.GA.jar;C:\Users\Administrator\.m2\repository\org\jboss\marshalling\jboss-marshalling-river\1.3.11.GA\jboss-marshalling-river-1.3.11.GA.jar;C:\Users\Administrator\.m2\repository\org\jgroups\jgroups\3.0.9.Final\jgroups-3.0.9.Final.jar;C:\Users\Administrator\.m2\repository\org\rhq\helpers\rhq-pluginAnnotations\3.0.4\rhq-pluginAnnotations-3.0.4.jar;C:\Users\Administrator\.m2\repository\org\codehaus\woodstox\stax2-api\3.1.1\stax2-api-3.1.1.jar;C:\Users\Administrator\.m2\repository\javax\xml\stream\stax-api\1.0-2\stax-api-1.0-2.jar;C:\Users\Administrator\.m2\repository\org\codehaus\woodstox\woodstox-core-asl\4.1.1\woodstox-core-asl-4.1.1.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-proxool\4.1.4.Final\hibernate-proxool-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\proxool\proxool\0.8.3\proxool-0.8.3.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-envers\4.1.4.Final\hibernate-envers-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-cglib-repack\2.1_3\hibernate-cglib-repack-2.1_3.jar;C:\Users\Administrator\.m2\repository\c3p0\c3p0\0.9.1.2\c3p0-0.9.1.2.jar;C:\Users\Administrator\.m2\repository\cglib\cglib\2.1_3\cglib-2.1_3.jar;C:\Users\Administrator\.m2\repository\asm\asm\1.5.3\asm-1.5.3.jar;C:\Users\Administrator\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar, user.name=Administrator, hibernate.bytecode.use_reflection_optimizer=false, java.vm.specification.version=1.7, sun.java.command=com.Forever.dao.Userdao, java.home=C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre, sun.arch.data.model=64, hibernate.connection.url=jdbc:mysql://127.0.0.1:3306/test?useUnicode=true&characterEncoding=UTF-8, hibernate.dialect=org.hibernate.dialect.MySQLDialect, user.language=zh, java.specification.vendor=Oracle Corporation, awt.toolkit=sun.awt.windows.WToolkit, java.vm.info=mixed mode, java.version=1.7.0_45, java.ext.dirs=C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\ext;C:\Windows\Sun\Java\lib\ext, sun.boot.class.path=C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\resources.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\rt.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\sunrsasign.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\jsse.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\jce.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\charsets.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\jfr.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\classes, java.vendor=Oracle Corporation, connection.driver_class=com.mysql.jdbc.Driver, file.separator=\, java.vendor.url.bug=http://bugreport.sun.com/bugreport/, sun.io.unicode.encoding=UnicodeLittle, sun.cpu.endian=little, sun.desktop=windows, connection.url=jdbc:mysql://127.0.0.1:3306/test?useUnicode=true&characterEncoding=UTF-8, dialect=org.hibernate.dialect.MySQLDialect, sun.cpu.isalist=amd64}
+DEBUG main org.jboss.logging - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+DEBUG main org.hibernate.integrator.internal.IntegratorServiceImpl - Adding Integrator [org.hibernate.cfg.beanvalidation.BeanValidationIntegrator].
+DEBUG main org.hibernate.integrator.internal.IntegratorServiceImpl - Adding Integrator [org.hibernate.envers.event.EnversIntegrator].
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration boolean -> org.hibernate.type.BooleanType@7ff4d7c0
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration boolean -> org.hibernate.type.BooleanType@7ff4d7c0
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Boolean -> org.hibernate.type.BooleanType@7ff4d7c0
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration numeric_boolean -> org.hibernate.type.NumericBooleanType@1a3580ab
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration true_false -> org.hibernate.type.TrueFalseType@4222b9a
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration yes_no -> org.hibernate.type.YesNoType@d00078c
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration byte -> org.hibernate.type.ByteType@7166c37e
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration byte -> org.hibernate.type.ByteType@7166c37e
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Byte -> org.hibernate.type.ByteType@7166c37e
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration character -> org.hibernate.type.CharacterType@6958ae49
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration char -> org.hibernate.type.CharacterType@6958ae49
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Character -> org.hibernate.type.CharacterType@6958ae49
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration short -> org.hibernate.type.ShortType@53254e59
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration short -> org.hibernate.type.ShortType@53254e59
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Short -> org.hibernate.type.ShortType@53254e59
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration integer -> org.hibernate.type.IntegerType@3235186a
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration int -> org.hibernate.type.IntegerType@3235186a
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Integer -> org.hibernate.type.IntegerType@3235186a
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration long -> org.hibernate.type.LongType@6aed0f19
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration long -> org.hibernate.type.LongType@6aed0f19
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Long -> org.hibernate.type.LongType@6aed0f19
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration float -> org.hibernate.type.FloatType@ddcd5a8
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration float -> org.hibernate.type.FloatType@ddcd5a8
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Float -> org.hibernate.type.FloatType@ddcd5a8
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration double -> org.hibernate.type.DoubleType@6b2b48e5
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration double -> org.hibernate.type.DoubleType@6b2b48e5
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Double -> org.hibernate.type.DoubleType@6b2b48e5
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration big_decimal -> org.hibernate.type.BigDecimalType@3b6c57b1
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.math.BigDecimal -> org.hibernate.type.BigDecimalType@3b6c57b1
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration big_integer -> org.hibernate.type.BigIntegerType@677f896c
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.math.BigInteger -> org.hibernate.type.BigIntegerType@677f896c
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration string -> org.hibernate.type.StringType@4c95fa7f
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.String -> org.hibernate.type.StringType@4c95fa7f
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration url -> org.hibernate.type.UrlType@5534ea95
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.net.URL -> org.hibernate.type.UrlType@5534ea95
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration date -> org.hibernate.type.DateType@53dc5341
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Date -> org.hibernate.type.DateType@53dc5341
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration time -> org.hibernate.type.TimeType@17a0d510
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Time -> org.hibernate.type.TimeType@17a0d510
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration timestamp -> org.hibernate.type.TimestampType@4c00c0cf
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Timestamp -> org.hibernate.type.TimestampType@4c00c0cf
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.Date -> org.hibernate.type.TimestampType@4c00c0cf
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration dbtimestamp -> org.hibernate.type.DbTimestampType@bce1791
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration calendar -> org.hibernate.type.CalendarType@17ff3f5d
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.Calendar -> org.hibernate.type.CalendarType@17ff3f5d
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.GregorianCalendar -> org.hibernate.type.CalendarType@17ff3f5d
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration calendar_date -> org.hibernate.type.CalendarDateType@48cdd17f
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration locale -> org.hibernate.type.LocaleType@1d6a5ae9
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.Locale -> org.hibernate.type.LocaleType@1d6a5ae9
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration currency -> org.hibernate.type.CurrencyType@79a181b4
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.Currency -> org.hibernate.type.CurrencyType@79a181b4
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration timezone -> org.hibernate.type.TimeZoneType@43d1068c
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.TimeZone -> org.hibernate.type.TimeZoneType@43d1068c
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration class -> org.hibernate.type.ClassType@5e0a14a
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Class -> org.hibernate.type.ClassType@5e0a14a
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration uuid-binary -> org.hibernate.type.UUIDBinaryType@8854a21
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.util.UUID -> org.hibernate.type.UUIDBinaryType@8854a21
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration uuid-char -> org.hibernate.type.UUIDCharType@f2882ad
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration pg-uuid -> org.hibernate.type.PostgresUUIDType@73a51852
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration binary -> org.hibernate.type.BinaryType@544cbce2
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration byte[] -> org.hibernate.type.BinaryType@544cbce2
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration [B -> org.hibernate.type.BinaryType@544cbce2
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration wrapper-binary -> org.hibernate.type.WrapperBinaryType@6057f993
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration Byte[] -> org.hibernate.type.WrapperBinaryType@6057f993
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration [Ljava.lang.Byte; -> org.hibernate.type.WrapperBinaryType@6057f993
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration image -> org.hibernate.type.ImageType@381ebaf3
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration characters -> org.hibernate.type.CharArrayType@3f9e529
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration char[] -> org.hibernate.type.CharArrayType@3f9e529
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration [C -> org.hibernate.type.CharArrayType@3f9e529
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration wrapper-characters -> org.hibernate.type.CharacterArrayType@31d70d74
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration [Ljava.lang.Character; -> org.hibernate.type.CharacterArrayType@31d70d74
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration Character[] -> org.hibernate.type.CharacterArrayType@31d70d74
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration text -> org.hibernate.type.TextType@751bd80c
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration blob -> org.hibernate.type.BlobType@276bab54
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Blob -> org.hibernate.type.BlobType@276bab54
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration materialized_blob -> org.hibernate.type.MaterializedBlobType@9257f0e
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration wrapper_materialized_blob -> org.hibernate.type.WrappedMaterializedBlobType@45c803ae
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration clob -> org.hibernate.type.ClobType@560b32b6
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.sql.Clob -> org.hibernate.type.ClobType@560b32b6
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration materialized_clob -> org.hibernate.type.MaterializedClobType@1472aebc
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration wrapper_characters_clob -> org.hibernate.type.CharacterArrayClobType@7a7025de
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration characters_clob -> org.hibernate.type.PrimitiveCharacterArrayClobType@7b33a2a8
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration serializable -> org.hibernate.type.SerializableType@428dcfef
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration object -> org.hibernate.type.ObjectType@65a53d8f
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration java.lang.Object -> org.hibernate.type.ObjectType@65a53d8f
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_date -> org.hibernate.type.AdaptedImmutableType@6f479e5f
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_time -> org.hibernate.type.AdaptedImmutableType@46eea80c
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_timestamp -> org.hibernate.type.AdaptedImmutableType@5e5ad035
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_dbtimestamp -> org.hibernate.type.AdaptedImmutableType@1c1b77f8
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_calendar -> org.hibernate.type.AdaptedImmutableType@4f614932
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_calendar_date -> org.hibernate.type.AdaptedImmutableType@7c0c9a54
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_binary -> org.hibernate.type.AdaptedImmutableType@1f68406c
+DEBUG main org.hibernate.type.BasicTypeRegistry - Adding type registration imm_serializable -> org.hibernate.type.AdaptedImmutableType@755d828f
+INFO main org.hibernate.annotations.common.Version - Hibernate Commons Annotations 3.2.0.Final
+INFO main org.hibernate.cfg.Environment - Hibernate 3.6.10.Final
+INFO main org.hibernate.cfg.Environment - hibernate.properties not found
+INFO main org.hibernate.cfg.Environment - Bytecode provider name : javassist
+INFO main org.hibernate.cfg.Environment - using JDK 1.4 java.sql.Timestamp handling
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [uuid2] -> [class org.hibernate.id.UUIDGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [guid] -> [class org.hibernate.id.GUIDGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [uuid] -> [class org.hibernate.id.UUIDHexGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [uuid.hex] -> [class org.hibernate.id.UUIDHexGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [hilo] -> [class org.hibernate.id.TableHiLoGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [assigned] -> [class org.hibernate.id.Assigned]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [identity] -> [class org.hibernate.id.IdentityGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [select] -> [class org.hibernate.id.SelectGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [sequence] -> [class org.hibernate.id.SequenceGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [seqhilo] -> [class org.hibernate.id.SequenceHiLoGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [increment] -> [class org.hibernate.id.IncrementGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [foreign] -> [class org.hibernate.id.ForeignGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [sequence-identity] -> [class org.hibernate.id.SequenceIdentityGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [enhanced-sequence] -> [class org.hibernate.id.enhanced.SequenceStyleGenerator]
+DEBUG main org.hibernate.id.factory.DefaultIdentifierGeneratorFactory - Registering IdentifierGenerator strategy [enhanced-table] -> [class org.hibernate.id.enhanced.TableGenerator]
+INFO main org.hibernate.cfg.Configuration - configuring from resource: /hibernate.cfg.xml
+INFO main org.hibernate.cfg.Configuration - Configuration resource: /hibernate.cfg.xml
+DEBUG main org.hibernate.util.DTDEntityResolver - trying to resolve system-id [http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd]
+DEBUG main org.hibernate.util.DTDEntityResolver - recognized hibernate namespace; attempting to resolve on classpath under org/hibernate/
+DEBUG main org.hibernate.util.DTDEntityResolver - located [http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd] in classpath
+DEBUG main org.hibernate.cfg.Configuration - dialect=org.hibernate.dialect.MySQLDialect
+DEBUG main org.hibernate.cfg.Configuration - connection.url=jdbc:mysql://127.0.0.1:3306/test?useUnicode=true&characterEncoding=UTF-8
+DEBUG main org.hibernate.cfg.Configuration - connection.username=root
+DEBUG main org.hibernate.cfg.Configuration - connection.driver_class=com.mysql.jdbc.Driver
+DEBUG main org.hibernate.cfg.Configuration - myeclipse.connection.profile=MySql1
+DEBUG main org.hibernate.cfg.Configuration - session-factory config [null] named resource [com/Forever/po/DrUser.hbm.xml] for mapping
+INFO main org.hibernate.cfg.Configuration - Reading mappings from resource : com/Forever/po/DrUser.hbm.xml
+DEBUG main org.hibernate.util.DTDEntityResolver - trying to resolve system-id [http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd]
+DEBUG main org.hibernate.util.DTDEntityResolver - recognized hibernate namespace; attempting to resolve on classpath under org/hibernate/
+DEBUG main org.hibernate.util.DTDEntityResolver - located [http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd] in classpath
+INFO main org.hibernate.cfg.Configuration - Configured SessionFactory: null
+DEBUG main org.hibernate.cfg.Configuration - properties: {java.runtime.name=Java(TM) SE Runtime Environment, sun.boot.library.path=C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\bin, java.vm.version=24.45-b08, hibernate.connection.username=root, java.vm.vendor=Oracle Corporation, java.vendor.url=http://java.oracle.com/, path.separator=;, java.vm.name=Java HotSpot(TM) 64-Bit Server VM, file.encoding.pkg=sun.io, user.script=, user.country=CN, sun.java.launcher=SUN_STANDARD, sun.os.patch.level=Service Pack 1, java.vm.specification.name=Java Virtual Machine Specification, user.dir=C:\Users\Administrator\Workspaces\MyEclipse Professional 2014\F_Hibernate_2, java.runtime.version=1.7.0_45-b18, java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment, java.endorsed.dirs=C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\endorsed, os.arch=amd64, java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\, line.separator=
+, java.vm.specification.vendor=Oracle Corporation, user.variant=, os.name=Windows 7, sun.jnu.encoding=GBK, java.library.path=C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\bin;C:\Program Files (x86)\Java\jdk1.7.0_51\bin;C:\Program Files\Java\jdk1.8.0_25\bin;.;;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;;., hibernate.myeclipse.connection.profile=MySql1, java.specification.name=Java Platform API Specification, java.class.version=51.0, sun.management.compiler=HotSpot 64-Bit Tiered Compilers, os.version=6.1, user.home=C:\Users\Administrator, user.timezone=, connection.username=root, java.awt.printerjob=sun.awt.windows.WPrinterJob, file.encoding=UTF-8, java.specification.version=1.7, myeclipse.connection.profile=MySql1, hibernate.connection.driver_class=com.mysql.jdbc.Driver, java.class.path=C:\Users\Administrator\Workspaces\MyEclipse Professional 2014\F_Hibernate_2\target\classes;C:\Users\Administrator\Workspaces\MyEclipse Professional 2014\F_Hibernate_2\src\main\webapp\WEB-INF\lib\antlr-2.7.7.jar;C:\Users\Administrator\Workspaces\MyEclipse Professional 2014\F_Hibernate_2\src\main\webapp\WEB-INF\lib\hibernate-testing.jar;C:\Users\Administrator\Workspaces\MyEclipse Professional 2014\F_Hibernate_2\src\main\webapp\WEB-INF\lib\hibernate3.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-log4j12\1.7.7\slf4j-log4j12-1.7.7.jar;C:\Users\Administrator\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\Administrator\.m2\repository\jstl\jstl\1.2\jstl-1.2.jar;C:\Users\Administrator\.m2\repository\mysql\mysql-connector-java\5.1.30\mysql-connector-java-5.1.30.jar;C:\Users\Administrator\.m2\repository\org\apache\struts\struts2-core\2.3.16.3\struts2-core-2.3.16.3.jar;C:\Users\Administrator\.m2\repository\org\apache\struts\xwork\xwork-core\2.3.16.3\xwork-core-2.3.16.3.jar;C:\Users\Administrator\.m2\repository\asm\asm-commons\3.3\asm-commons-3.3.jar;C:\Users\Administrator\.m2\repository\asm\asm-tree\3.3\asm-tree-3.3.jar;C:\Users\Administrator\.m2\repository\org\freemarker\freemarker\2.3.19\freemarker-2.3.19.jar;C:\Users\Administrator\.m2\repository\ognl\ognl\3.0.6\ognl-3.0.6.jar;C:\Users\Administrator\.m2\repository\javassist\javassist\3.11.0.GA\javassist-3.11.0.GA.jar;C:\Users\Administrator\.m2\repository\commons-fileupload\commons-fileupload\1.3.1\commons-fileupload-1.3.1.jar;C:\Users\Administrator\.m2\repository\commons-io\commons-io\2.2\commons-io-2.2.jar;C:\Users\Administrator\.m2\repository\org\apache\struts\struts2-convention-plugin\2.3.16.3\struts2-convention-plugin-2.3.16.3.jar;C:\Users\Administrator\.m2\repository\org\apache\commons\commons-lang3\3.1\commons-lang3-3.1.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-api\1.7.7\slf4j-api-1.7.7.jar;C:\Users\Administrator\.m2\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar;C:\Users\Administrator\.m2\repository\xml-apis\xml-apis\1.0.b2\xml-apis-1.0.b2.jar;C:\Users\Administrator\.m2\repository\org\hibernate\common\hibernate-commons-annotations\4.0.1.Final\hibernate-commons-annotations-4.0.1.Final.jar;C:\Users\Administrator\.m2\repository\org\jboss\logging\jboss-logging\3.1.0.CR2\jboss-logging-3.1.0.CR2.jar;C:\Users\Administrator\.m2\repository\org\hibernate\javax\persistence\hibernate-jpa-2.0-api\1.0.1.Final\hibernate-jpa-2.0-api-1.0.1.Final.jar;C:\Users\Administrator\.m2\repository\org\javassist\javassist\3.15.0-GA\javassist-3.15.0-GA.jar;C:\Users\Administrator\.m2\repository\org\jboss\spec\javax\transaction\jboss-transaction-api_1.1_spec\1.0.0.Final\jboss-transaction-api_1.1_spec-1.0.0.Final.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-entitymanager\4.1.4.Final\hibernate-entitymanager-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-core\4.1.4.Final\hibernate-core-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-c3p0\4.1.4.Final\hibernate-c3p0-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\net\sf\ehcache\ehcache-core\2.4.3\ehcache-core-2.4.3.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-ehcache\4.1.4.Final\hibernate-ehcache-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-infinispan\4.1.4.Final\hibernate-infinispan-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\org\infinispan\infinispan-core\5.1.4.FINAL\infinispan-core-5.1.4.FINAL.jar;C:\Users\Administrator\.m2\repository\org\jboss\marshalling\jboss-marshalling\1.3.11.GA\jboss-marshalling-1.3.11.GA.jar;C:\Users\Administrator\.m2\repository\org\jboss\marshalling\jboss-marshalling-river\1.3.11.GA\jboss-marshalling-river-1.3.11.GA.jar;C:\Users\Administrator\.m2\repository\org\jgroups\jgroups\3.0.9.Final\jgroups-3.0.9.Final.jar;C:\Users\Administrator\.m2\repository\org\rhq\helpers\rhq-pluginAnnotations\3.0.4\rhq-pluginAnnotations-3.0.4.jar;C:\Users\Administrator\.m2\repository\org\codehaus\woodstox\stax2-api\3.1.1\stax2-api-3.1.1.jar;C:\Users\Administrator\.m2\repository\javax\xml\stream\stax-api\1.0-2\stax-api-1.0-2.jar;C:\Users\Administrator\.m2\repository\org\codehaus\woodstox\woodstox-core-asl\4.1.1\woodstox-core-asl-4.1.1.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-proxool\4.1.4.Final\hibernate-proxool-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\proxool\proxool\0.8.3\proxool-0.8.3.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-envers\4.1.4.Final\hibernate-envers-4.1.4.Final.jar;C:\Users\Administrator\.m2\repository\org\hibernate\hibernate-cglib-repack\2.1_3\hibernate-cglib-repack-2.1_3.jar;C:\Users\Administrator\.m2\repository\c3p0\c3p0\0.9.1.2\c3p0-0.9.1.2.jar;C:\Users\Administrator\.m2\repository\cglib\cglib\2.1_3\cglib-2.1_3.jar;C:\Users\Administrator\.m2\repository\asm\asm\1.5.3\asm-1.5.3.jar;C:\Users\Administrator\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar, user.name=Administrator, hibernate.bytecode.use_reflection_optimizer=false, java.vm.specification.version=1.7, sun.java.command=com.Forever.dao.Userdao, java.home=C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre, sun.arch.data.model=64, hibernate.connection.url=jdbc:mysql://127.0.0.1:3306/test?useUnicode=true&characterEncoding=UTF-8, hibernate.dialect=org.hibernate.dialect.MySQLDialect, user.language=zh, java.specification.vendor=Oracle Corporation, awt.toolkit=sun.awt.windows.WToolkit, java.vm.info=mixed mode, java.version=1.7.0_45, java.ext.dirs=C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\ext;C:\Windows\Sun\Java\lib\ext, sun.boot.class.path=C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\resources.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\rt.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\sunrsasign.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\jsse.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\jce.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\charsets.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\lib\jfr.jar;C:\Users\Administrator\AppData\Local\MyEclipse Professional 2014\binary\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\jre\classes, java.vendor=Oracle Corporation, connection.driver_class=com.mysql.jdbc.Driver, file.separator=\, java.vendor.url.bug=http://bugreport.sun.com/bugreport/, sun.io.unicode.encoding=UnicodeLittle, sun.cpu.endian=little, sun.desktop=windows, connection.url=jdbc:mysql://127.0.0.1:3306/test?useUnicode=true&characterEncoding=UTF-8, dialect=org.hibernate.dialect.MySQLDialect, sun.cpu.isalist=amd64}
+DEBUG main org.jboss.logging - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+DEBUG main org.hibernate.integrator.internal.IntegratorServiceImpl - Adding Integrator [org.hibernate.cfg.beanvalidation.BeanValidationIntegrator].
+DEBUG main org.hibernate.integrator.internal.IntegratorServiceImpl - Adding Integrator [org.hibernate.envers.event.EnversIntegrator].
